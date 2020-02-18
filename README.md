@@ -26,4 +26,5 @@ To run the Python scripts with Hadoop, please run the following command after ad
 
 
 To run the Python scripts without hadoop, please run the following command after adding necessary paths:
+
 `awk 1 <directory-of-input-files> | python3 mapper.py | python3 reducer.py`
