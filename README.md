@@ -19,7 +19,7 @@ Assumption is as per the instruction that only one number is present in one line
 
 To run the Python scripts with Hadoop, please run the following command after adding necessary paths:
 
-```bin/hadoop jar <path for hadoop streaming jar file> \`
+```bin/hadoop jar <path for hadoop streaming jar file> \
 
 -file <path of mapper script file>   -mapper <path of mapper script file> \
 
